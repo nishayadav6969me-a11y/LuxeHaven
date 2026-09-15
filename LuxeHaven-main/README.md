@@ -4,7 +4,7 @@
 
 </div>
 
-[![nisha - LuxeHaven](https://img.shields.io/static/v1?label=nisha&message=LuxeHaven&color=%236D3CB4&logo=github)](https://github.com/nisha/LuxeHaven "Go to GitHub repo")
+[![nishayadav6969me-a11y - LuxeHaven](https://img.shields.io/static/v1?label=nishayadav6969me-a11y&message=LuxeHaven&color=%236D3CB4&logo=github)](https://github.com/nishayadav6969me-a11y/LuxeHaven "Go to GitHub repo")
 
 #### Project Result Screenshots:
 
